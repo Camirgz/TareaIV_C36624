@@ -33,3 +33,4 @@ Sistema completo para gestionar pedidos en una cafetería que permite ordenar be
 - Los clientes pueden registrarse/deregistrarse dinámicamente
 
 
+....
